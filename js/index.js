@@ -1,26 +1,26 @@
 const workData = [
     {
-      name: 'Keeping track of hundreds of components 1',
+      name: 'Covid-19 Data Hub',
       description:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLore",
-      ImgUrl: 'work.png',
-      tech: ['Ruby on rails', 'css', 'javascript'],
-      demoUrl: 'https://github.com/EzekielUtshudi',
-      gitUrl: 'https://github.com/EzekielUtshudi',
+        "This is a webapp that display metric data from an API for Covid-19 cases globally. Built with - Javascript, HTML, CSS - React - Redux - API",
+      ImgUrl: 'Homecovid.png',
+      tech: ['React & Redux', 'HTML', 'CSS', 'javascript'],
+      demoUrl: 'https://cool-bavarois-7aa72a.netlify.app/',
+      gitUrl: 'https://github.com/ppmarq1/covid-19-data-hub',
     },
     {
-      name: 'Keeping track of hundreds of components 2',
+      name: 'JavaScript Capstone Group',
       description:
-        'Experimental content creation feature that allows users to add to an existing story over the course of a day without spamming their friends.',
-      ImgUrl: 'work.png',
-      tech: ['Ruby on rails', 'css', 'javascript'],
-      demoUrl: 'https://github.com/EzekielUtshudi/Porfolio-Project',
-      gitUrl: 'https://github.com/EzekielUtshudi/Porfolio-Project',
+        'This educational project is to build our own web application based on an external API. We selected an API that provides data about a topic that we like and built the web app around it. The web app will have 2 user interfaces.',
+      ImgUrl: 'javascriptcapstonegroup.png',
+      tech: ['HTML', 'CSS', 'javascript'],
+      demoUrl: 'https://ppmarq1.github.io/JavaScript-Group-Capstone/',
+      gitUrl: 'https://github.com/ppmarq1/JavaScript-Group-Capstone',
     },
     {
-      name: 'Keeping track of hundreds of components 3',
+      name: 'Bookstore React',
       description:
-        'Experimental content creation feature that allows users to add to an existing story over the course of a day without spamming their friends.',
+        'This project will lay foundations for Bookstore website. We create the React & Redux part of the app. It was also set up routing using React Router.',
       ImgUrl: 'work.png',
       tech: ['Ruby on rails', 'css', 'javascript'],
       demoUrl: 'https://github.com/EzekielUtshudi/Porfolio-Project',
