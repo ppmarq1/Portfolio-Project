@@ -37,21 +37,21 @@ workData.forEach((work, index) => {
 });
 
 // hambuger menu imports
-//const btn = document.querySelector('.mb-menu');
-//const menu = document.querySelector('.hamburger');
-//const menuList = document.querySelectorAll('.mb-menu-list a');
+// const btn = document.querySelector('.mb-menu');
+// const menu = document.querySelector('.hamburger');
+// const menuList = document.querySelectorAll('.mb-menu-list a');
 
 // hambuger menu implementation
-//btn.addEventListener('click', () => {
+// btn.addEventListener('click', () => {
 // menu.classList.toggle('active');
-//document.body.classList.toggle('no-scroll');
-//});
+// document.body.classList.toggle('no-scroll');
+// });
 
-//menuList.forEach((list) => {
+// menuList.forEach((list) => {
 //  list.addEventListener('click', () => {
 //    menu.classList.remove('active');
 //  });
-//});
+// });
 
 // modal implementation
 const modalContainer = document.querySelector('.modal-container');
