@@ -18,7 +18,7 @@ const workData = [
       gitUrl: 'https://github.com/ppmarq1/JavaScript-Group-Capstone',
     },
     {
-      name: 'Bookstore React',
+      name: 'Bookstore React Project',
       description:
         'This project will lay foundations for Bookstore website. We create the React & Redux part of the app. It was also set up routing using React Router.',
       ImgUrl: 'bookstore.png',
@@ -27,31 +27,31 @@ const workData = [
       gitUrl: 'https://github.com/ppmarq1/Bookstore-react',
     },
     {
-      name: 'Keeping track of hundreds of components 4',
+      name: 'Math Magicians Project',
       description:
-        'Experimental content creation feature that allows users to add to an existing story over the course of a day without spamming their friends.',
-      ImgUrl: 'work.png',
-      tech: ['Ruby on rails', 'css', 'javascript'],
-      demoUrl: 'https://github.com/EzekielUtshudi/Porfolio-Project',
-      gitUrl: 'https://github.com/EzekielUtshudi/Porfolio-Project',
+        'A single page app consisting of a calculator. In this project, we created a full website for the Math magicians app, consisting of several pages and using the components in React.',
+      ImgUrl: 'math.png',
+      tech: ['HTML', 'CSS', 'JavaScript', 'React'],
+      demoUrl: 'https://62a0bb39f7ea070a0140c8b1--sprightly-faun-8cce82.netlify.app/',
+      gitUrl: 'https://github.com/ppmarq1/Math-magicians',
     },
     {
-      name: 'Keeping track of hundreds of components 5',
+      name: 'Space Hub Project',
       description:
-        'Experimental content creation feature that allows users to add to an existing story over the course of a day without spamming their friends.',
-      ImgUrl: 'work.png',
-      tech: ['Ruby on rails', 'css', 'javascript'],
-      demoUrl: '',
-      gitUrl: 'https://github.com/EzekielUtshudi/Porfolio-Project',
+        'This is a React app working with the real live data from the SpaceX API. The application will allow users to book rockets and join selected space missions.',
+      ImgUrl: 'space.png',
+      tech: ['React & Redux', 'CSS', 'Javascript', 'HTML'],
+      demoUrl: 'https://62b45e8d1cd8b21af3e0e814--stunning-khapse-f798f8.netlify.app/',
+      gitUrl: 'https://github.com/NabilHY/space-hub',
     },
     {
-      name: 'Keeping track of hundreds of components 6',
+      name: 'Awesome Books ES6',
       description:
-        'Experimental content creation feature that allows users to add to an existing story over the course of a day without spamming their friends.',
-      ImgUrl: 'work.png',
-      tech: ['Ruby on rails', 'css', 'javascript'],
-      demoUrl: 'https://github.com/EzekielUtshudi/Porfolio',
-      gitUrl: 'https://github.com/EzekielUtshudi/Porfolio',
+        'This is s a simple website built with JavaScript, HTML and CSS, that displays a list of books and allows you to add and remove books from that list. In this Project we have used ES6 modules to write modular JavaScript and understand the improvements that ES6 brings to JavaScript. Also it was used npm as software packages system.',
+      ImgUrl: 'awesome.png',
+      tech: ['JavaScript', 'CSS', 'HTML'],
+      demoUrl: 'https://github.com/ppmarq1/Portfolio-Awesome-Books-ES6',
+      gitUrl: 'https://github.com/ppmarq1/Portfolio-Awesome-Books-ES6',
     },
   ];
   
