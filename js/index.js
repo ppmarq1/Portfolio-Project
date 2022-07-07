@@ -50,8 +50,8 @@ const workData = [
         'This is s a simple website built with JavaScript, HTML and CSS, that displays a list of books and allows you to add and remove books from that list. In this Project we have used ES6 modules to write modular JavaScript and understand the improvements that ES6 brings to JavaScript. Also it was used npm as software packages system.',
     ImgUrl: 'awesome.png',
     tech: ['JavaScript', 'CSS', 'HTML', 'Bootstrap', 'Netlifly'],
-    demoUrl: 'https://github.com/ppmarq1/Portfolio-Awesome-Books-ES6',
-    gitUrl: 'https://awesome-books-es6.netlify.',
+    demoUrl: 'https://awesome-books-es6.netlify.',
+    gitUrl: 'https://github.com/ppmarq1/Portfolio-Awesome-Books-ES6',
   },
 ];
 
