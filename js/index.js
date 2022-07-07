@@ -51,7 +51,7 @@ const workData = [
     ImgUrl: 'awesome.png',
     tech: ['JavaScript', 'CSS', 'HTML', 'Bootstrap', 'Netlifly'],
     demoUrl: 'https://github.com/ppmarq1/Portfolio-Awesome-Books-ES6',
-    gitUrl: 'https://github.com/ppmarq1/Portfolio-Awesome-Books-ES6',
+    gitUrl: 'https://ppmarq1.github.io/Portfolio-Awesome-Books-ES6/',
   },
 ];
 
