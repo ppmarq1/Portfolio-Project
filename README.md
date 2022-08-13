@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-Visit comming soom...... to view online
+https://my-portfolio-ppmarq1.netlify.app/
 
 ## Getting Started
 
