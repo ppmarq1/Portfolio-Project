@@ -1,12 +1,12 @@
 const workData = [
   {
-    name: 'Covid-19 <br> Data Hub',
+    name:  ' Final Capstone Group <br> Ruby on Rails',
     description:
-        'This is a webapp that display metric data from an API for Covid-19 cases globally. Built with - Javascript, HTML, CSS - React - Redux - API',
-    ImgUrl: 'Homecovid.png',
-    tech: ['React & Redux', 'HTML', 'CSS', 'javascript'],
-    demoUrl: 'https://cool-bavarois-7aa72a.netlify.app/',
-    gitUrl: 'https://github.com/ppmarq1/covid-19-data-hub',
+        'Motorbike Booking is a react frontend application for booking Motorbikes. This application serves as user interface for the backend and users can create, and delete Motorbikes, as well as add reservations. Users can sign up or sign in to able to book motor.',
+    ImgUrl: 'motorbikescreenshot.png',
+    tech: ['React & Redux', 'Axios', 'Netlify', 'Ruby', 'Devise' , 'Rails-api'],
+    demoUrl: 'https://motorbike-booking.netlify.app/',
+    gitUrl: 'https://github.com/RWUBAKWANAYO/motorbike_booking_frontend',
   },
   {
     name: 'JavaScript Capstone Group',
@@ -45,13 +45,13 @@ const workData = [
     gitUrl: 'https://github.com/NabilHY/space-hub',
   },
   {
-    name: 'Awesome Books <br> ES6',
+    name: 'Covid-19 <br> Data Hub',
     description:
-        'This is s a simple website built with JavaScript, HTML and CSS, that displays a list of books and allows you to add and remove books from that list. In this Project we have used ES6 modules to write modular JavaScript and understand the improvements that ES6 brings to JavaScript. Also it was used npm as software packages system.',
-    ImgUrl: 'awesome.png',
-    tech: ['JavaScript', 'CSS', 'HTML', 'Bootstrap', 'Netlifly'],
-    demoUrl: 'https://awesome-books-es6.netlify.',
-    gitUrl: 'https://github.com/ppmarq1/Portfolio-Awesome-Books-ES6',
+        'This is a webapp that display metric data from an API for Covid-19 cases globally. Built with - Javascript, HTML, CSS - React - Redux - API',
+    ImgUrl: 'Homecovid.png',
+    tech: ['React & Redux', 'HTML', 'CSS', 'javascript'],
+    demoUrl: 'https://cool-bavarois-7aa72a.netlify.app/',
+    gitUrl: 'https://github.com/ppmarq1/covid-19-data-hub',
   },
 ];
 
